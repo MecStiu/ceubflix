@@ -1,0 +1,171 @@
+.captura-de-tela-2024-06-10-170 {
+  text-decoration: none;
+  position: absolute;
+  top: 18px;
+  left: 698px;
+  width: 262px;
+  height: 61px;
+  background-image: url(./public/captura-de-tela-20240610-170154removebgpreview-2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.minha-rea {
+  text-decoration: none;
+  position: absolute;
+  top: 36px;
+  left: 1008px;
+  font-weight: 700;
+  color: inherit;
+}
+.pagina-principal-child {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 112px;
+  left: 239px;
+  border-radius: 42px;
+  width: 1339px;
+  height: 453px;
+}
+.pagina-principal-child1,
+.pagina-principal-inner,
+.pagina-principal-item,
+.rectangle-input {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-gainsboro-200);
+  position: absolute;
+  top: 739px;
+  left: 580px;
+  width: 187px;
+  height: 118px;
+}
+.pagina-principal-child1,
+.pagina-principal-inner,
+.rectangle-input {
+  left: 794px;
+}
+.pagina-principal-child1,
+.rectangle-input {
+  left: 1222px;
+}
+.pagina-principal-child1 {
+  left: 1436px;
+}
+.pagina-principal-child2,
+.pagina-principal-child3,
+.pagina-principal-child4,
+.pagina-principal-child5,
+.pagina-principal-child6 {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-gainsboro-200);
+  position: absolute;
+  top: 739px;
+  left: 366px;
+  width: 187px;
+  height: 118px;
+}
+.pagina-principal-child3,
+.pagina-principal-child4,
+.pagina-principal-child5,
+.pagina-principal-child6 {
+  left: 152px;
+}
+.pagina-principal-child4,
+.pagina-principal-child5,
+.pagina-principal-child6 {
+  top: 883px;
+  left: 1438px;
+}
+.pagina-principal-child5,
+.pagina-principal-child6 {
+  left: 1222px;
+}
+.pagina-principal-child6 {
+  left: 1008px;
+}
+.pagina-principal-child10,
+.pagina-principal-child11,
+.pagina-principal-child7,
+.pagina-principal-child8,
+.pagina-principal-child9 {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-gainsboro-200);
+  position: absolute;
+  top: 883px;
+  left: 794px;
+  width: 187px;
+  height: 118px;
+}
+.pagina-principal-child10,
+.pagina-principal-child11,
+.pagina-principal-child8,
+.pagina-principal-child9 {
+  left: 580px;
+}
+.pagina-principal-child10,
+.pagina-principal-child11,
+.pagina-principal-child9 {
+  left: 366px;
+}
+.pagina-principal-child10,
+.pagina-principal-child11 {
+  left: 152px;
+}
+.pagina-principal-child11 {
+  top: 739px;
+  left: 1008px;
+}
+.todos-os-filmes {
+  position: absolute;
+  top: 686px;
+  left: 146px;
+}
+.label {
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+}
+.field {
+  position: absolute;
+  top: 18px;
+  left: 1578px;
+  box-shadow: var(--button-shadow);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 285px;
+  height: 51px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-base);
+  text-align: left;
+  font-size: var(--body-text-size);
+  color: var(--color-gray);
+}
+.captura-de-tela-2024-06-10-172-icon {
+  position: absolute;
+  top: 9px;
+  left: 1506px;
+  width: 72px;
+  height: 73px;
+  object-fit: cover;
+}
+.pagina-principal {
+  width: 100%;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-darkslateblue);
+  height: 1080px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--body-text);
+}

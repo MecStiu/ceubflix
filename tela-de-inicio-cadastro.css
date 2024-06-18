@@ -1,0 +1,170 @@
+.tela-de-inicio-cadastro-child {
+  position: absolute;
+  top: 0;
+  left: 913px;
+  background-color: var(--color-white);
+  width: 1026px;
+  height: 1080px;
+}
+.criar-conta {
+  position: absolute;
+  top: 268px;
+  left: 1239px;
+  font-size: 40px;
+  display: inline-block;
+  width: 335px;
+  height: 66px;
+}
+.conecte-se-com-suas,
+.filme-a-todo {
+  position: absolute;
+  display: inline-block;
+  color: var(--color-white);
+}
+.filme-a-todo {
+  top: 540px;
+  left: 181px;
+  font-size: var(--font-size-29xl);
+  width: 558px;
+}
+.conecte-se-com-suas {
+  top: 642px;
+  left: 294px;
+  font-size: 27px;
+  width: 331px;
+}
+.tela-de-inicio-cadastro-inner,
+.tela-de-inicio-cadastro-item {
+  position: absolute;
+  top: 772px;
+  left: 390px;
+  border-radius: var(--br-5xl);
+  width: 128.4px;
+  height: 49.9px;
+  object-fit: contain;
+}
+.tela-de-inicio-cadastro-inner {
+  top: 693.2px;
+  left: 1344.7px;
+  width: 195.2px;
+  height: 44.3px;
+}
+.criar,
+.entrar1 {
+  text-decoration: none;
+  position: absolute;
+  color: var(--color-white);
+}
+.entrar1 {
+  top: 785px;
+  left: 413px;
+  font-size: var(--body-text-size);
+  font-weight: 700;
+}
+.criar {
+  top: 701px;
+  left: 1409px;
+  font-weight: 600;
+}
+.captura-de-tela-2024-06-10-1701 {
+  position: absolute;
+  top: 270px;
+  left: 189px;
+  width: 530px;
+  height: 87px;
+  object-fit: cover;
+}
+.nome {
+  border: 3px solid var(--color-black);
+  outline: 0;
+  background-color: var(--color-white);
+  top: 367px;
+  left: 1188px;
+  box-shadow: var(--button-shadow);
+  border-radius: var(--br-5xs);
+  box-sizing: border-box;
+  width: 511px;
+  height: 68px;
+}
+.email1,
+.nome,
+.nome1 {
+  position: absolute;
+}
+.nome1 {
+  top: 387px;
+  left: 1204px;
+  font-weight: 500;
+}
+.email1 {
+  border: 3px solid var(--color-black);
+  outline: 0;
+  background-color: var(--color-white);
+  top: 455px;
+  left: 1188px;
+  box-shadow: var(--button-shadow);
+  border-radius: var(--br-5xs);
+  box-sizing: border-box;
+  width: 511px;
+  height: 67px;
+}
+.email2 {
+  top: 475px;
+  left: 1204px;
+  font-weight: 500;
+}
+.email2,
+.senha1,
+.senha2 {
+  position: absolute;
+}
+.senha1 {
+  border: 3px solid var(--color-black);
+  outline: 0;
+  background-color: var(--color-white);
+  top: 535px;
+  left: 1188px;
+  box-shadow: var(--button-shadow);
+  border-radius: var(--br-5xs);
+  box-sizing: border-box;
+  width: 511px;
+  height: 68px;
+}
+.senha2 {
+  top: 555px;
+  left: 1210px;
+  font-weight: 500;
+}
+.confirme-senha,
+.tela-de-inicio-cadastro {
+  color: var(--color-black);
+  font-family: var(--body-text);
+}
+.confirme-senha {
+  border: 3px solid var(--color-black);
+  outline: 0;
+  font-weight: 500;
+  font-size: var(--body-text-size);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 618px;
+  left: 1188px;
+  box-shadow: var(--button-shadow);
+  border-radius: var(--br-5xs);
+  box-sizing: border-box;
+  width: 511px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-base);
+}
+.tela-de-inicio-cadastro {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslateblue);
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+}

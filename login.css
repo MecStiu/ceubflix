@@ -1,0 +1,122 @@
+.login-child {
+  position: absolute;
+  top: 0;
+  left: 687px;
+  background-color: var(--color-white);
+  width: 1233px;
+  height: 1080px;
+}
+.email,
+.login1,
+.senha {
+  position: absolute;
+  display: inline-block;
+}
+.login1 {
+  top: 364px;
+  left: 1215px;
+  font-size: var(--font-size-29xl);
+  width: 177px;
+  height: 65px;
+}
+.email,
+.senha {
+  top: 457px;
+  left: 1081px;
+  font-weight: 500;
+  width: 123px;
+  height: 50px;
+}
+.senha {
+  top: 589px;
+  left: 1085px;
+  width: 115px;
+  height: 37px;
+}
+.login-item {
+  position: absolute;
+  top: 713px;
+  left: 1226px;
+  border-radius: 41px;
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 133px;
+  height: 55.5px;
+  display: grid;
+  grid-row-gap: 0;
+  grid-column-gap: 0;
+}
+.entrar {
+  text-decoration: none;
+  position: absolute;
+  top: 727px;
+  left: 1248px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 90px;
+  height: 41px;
+}
+.captura-de-tela-2024-06-10-170-icon {
+  position: absolute;
+  top: 203px;
+  left: 79px;
+  width: 522px;
+  height: 87px;
+  object-fit: cover;
+}
+.conecte-se {
+  position: absolute;
+  top: 499px;
+  left: 195px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: -0.04em;
+  color: var(--color-white);
+}
+.login-inner {
+  position: absolute;
+  top: 483px;
+  left: 637px;
+  border-radius: 50%;
+  background-color: #523149;
+  width: 91px;
+  height: 94px;
+}
+.div {
+  position: absolute;
+  top: 457px;
+  left: 662px;
+  font-size: 96px;
+  font-family: var(--font-aoboshi-one);
+  color: var(--color-darkslateblue);
+  display: inline-block;
+  width: 49px;
+}
+.field1,
+.field2 {
+  border: 3px solid var(--color-black);
+  outline: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 493px;
+  left: 1089px;
+  box-shadow: var(--button-shadow);
+  border-radius: var(--br-5xs);
+  box-sizing: border-box;
+  width: 511px;
+  height: 68px;
+}
+.field2 {
+  top: 626px;
+}
+.login {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslateblue);
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--body-text);
+}
